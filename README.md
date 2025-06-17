@@ -15,3 +15,5 @@ A lower absolute value indicates weaker affect of the change in that field on th
 ----------------------------------------------
 Feature importance using the coefficients from the One vs All logistic regression model.
 ![download](https://github.com/user-attachments/assets/fd84ba26-44c0-4980-970a-a1540e884437)
+![download](https://github.com/user-attachments/assets/b017cbcd-4219-4cc3-9988-89e009223828)
+
