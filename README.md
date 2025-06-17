@@ -10,3 +10,6 @@ Large positive value of LR Coefficient for a given field indicates that increase
 A large negative value indicates the opposite, which means that an increase in this parameter will lead to poorer chance of a positive class. 
 A lower absolute value indicates weaker affect of the change in that field on the predicted class.
 
+
+Feature importance using the coefficients from the One vs All logistic regression model.
+![download](https://github.com/user-attachments/assets/fd84ba26-44c0-4980-970a-a1540e884437)
